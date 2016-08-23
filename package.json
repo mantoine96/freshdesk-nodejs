@@ -1,0 +1,10 @@
+{
+  "name": "freshdesk-nodejs",
+  "description": "Simple client for the Freshdesk V2 API",
+  "version": "0.0.1",
+  "author": "Matthieu ANTOINE <matthieu@matthieu-antoine.me>",
+  "dependencies": {
+    "request": "^2.74.0"
+  },
+  "main": "index.js"
+}
