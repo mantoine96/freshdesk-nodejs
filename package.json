@@ -1,8 +1,19 @@
 {
   "name": "freshdesk-nodejs",
   "description": "Simple client for the Freshdesk V2 API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Matthieu ANTOINE <matthieu@matthieu-antoine.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehunt33r/freshdesk-nodejs.git"
+  },
+  "keywords": [
+    "freshdesk"
+  ],
+  "bugs": {
+    "url": "https://github.com/thehunt33r/freshdesk-nodejs/issues"
+  },
   "dependencies": {
     "request": "^2.74.0"
   },
