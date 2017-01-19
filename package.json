@@ -1,7 +1,7 @@
 {
   "name": "freshdesk-nodejs",
   "description": "Simple client for the Freshdesk V2 API",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": "Matthieu ANTOINE <matthieu@matthieu-antoine.me>",
   "license": "MIT",
   "repository": {
